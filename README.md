@@ -14,16 +14,29 @@
 I am a **Salesforce Developer** and **Backend Engineer** passionate about building scalable, secure, and automated business solutions. With a strong foundation in Java and Spring Boot, I bridge the gap between enterprise backend systems and cloud-based CRM automation.
 
 ## 🚀 Technical Expertise
+
 ### Salesforce Ecosystem
-![Apex](https://img.shields.io/badge/Apex-2374AB?style=flat&logo=salesforce&logoColor=white) 
-![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=flat&logo=salesforce&logoColor=white) 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Development** | Apex (Triggers, Async, Queueable), LWC (Lightning Web Components) |
+| **Data & Querying** | SOQL, Data Loader, Workbench |
+| **Automation** | Flow Builder, Process Automation |
+| **Architecture** | Security Models (OWD, Role Hierarchy, Sharing Rules), Governor Limits |
+| **DevOps & Tools** | SFDX (Salesforce CLI), VS Code, GitHub Actions (CI/CD) |
+
+### Backend & Databases
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | Java (Core/Advanced), JavaScript (ES6+), SQL |
+| **Frameworks** | Spring Boot, MVC Architecture |
+| **Databases** | MySQL, PostgreSQL |
+| **Integration** | RESTful APIs, Apex Callouts, JSON/XML Parsing |
 
 ### Backend & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
