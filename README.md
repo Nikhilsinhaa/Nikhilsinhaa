@@ -44,8 +44,8 @@ I am a **Salesforce Developer** and **Backend Engineer** passionate about buildi
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilsinhaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilsinhaa&theme=radical&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilsinhaa&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilsinhaa&layout=compact&theme=radical" />
 </p>
 ---
 
