@@ -42,13 +42,20 @@ I am a **Salesforce Developer** and **Backend Engineer** passionate about buildi
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilsinhaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilsinhaa&theme=radical&hide_border=false&layout=compact" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Nikhilsinhaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nikhilsinhaa&theme=radical&hide_border=false" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Nikhilsinhaa&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilsinhaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhilsinhaa&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 ---
 
 <p align="center">
